@@ -36,7 +36,7 @@ Every code cell includes:
 ### PART 1 — Foundations
 | # | Topic | Key Concepts |
 |---|-------|-------------|
-| 1 | Setup & Imports | `rcParams`, global styling, `%matplotlib inline` | 🟢 MUST LEARN
+| 1 | Setup & Imports (🟢 MUST LEARN) | `rcParams`, global styling, `%matplotlib inline` |
 | 2 | Figure & Axes Anatomy | The OO mental model, `fig, ax = plt.subplots()` |
 | 3 | Line Plots | Trends, confidence bands, multi-series, `fill_between` |
 | 4 | Scatter Plots | Correlations, trend lines, bubble charts, `zorder` |

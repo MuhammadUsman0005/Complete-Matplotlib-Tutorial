@@ -36,30 +36,30 @@ Every code cell includes:
 ### PART 1 — Foundations
 | # | Topic | Key Concepts |
 |---|-------|-------------|
-| 1 | Setup & Imports (🟢 MUST LEARN) | `rcParams`, global styling, `%matplotlib inline` |
-| 2 | Figure & Axes Anatomy | The OO mental model, `fig, ax = plt.subplots()` |
-| 3 | Line Plots | Trends, confidence bands, multi-series, `fill_between` |
-| 4 | Scatter Plots | Correlations, trend lines, bubble charts, `zorder` |
-| 5 | Bar Charts | Grouped, stacked, horizontal, `bar_label` |
-| 6 | Histograms | `bins`, `density`, overlapping distributions |
+| 1 | Setup & Imports 🟢 MUST LEARN | `rcParams`, global styling, `%matplotlib inline` |
+| 2 | Figure & Axes Anatomy 🟢 MUST LEARN | The OO mental model, `fig, ax = plt.subplots()` |
+| 3 | Line Plots 🟢 MUST LEARN | Trends, confidence bands, multi-series, `fill_between` |
+| 4 | Scatter Plots 🟢 MUST LEARN | Correlations, trend lines, bubble charts, `zorder` |
+| 5 | Bar Charts 🟢 MUST LEARN | Grouped, stacked, horizontal, `bar_label` |
+| 6 | Histograms 🟢 MUST LEARN | `bins`, `density`, overlapping distributions |
 | 7 | Pie & Donut Charts | `autopct`, `explode`, `wedgeprops`, centre labels |
 
 ### PART 2 — Intermediate
 | # | Topic | Key Concepts |
 |---|-------|-------------|
-| 8 | Subplots | Grid layouts, `GridSpec`, unequal panels |
+| 8 | Subplots 🟢 MUST LEARN | Grid layouts, `GridSpec`, unequal panels |
 | 9 | Colors, Styles & Themes | Style sheets, colormaps, custom palettes |
-| 10 | Annotations | `annotate`, `axhspan`, `axvspan`, text boxes with arrows |
+| 10 | Annotations 🟢 MUST LEARN | `annotate`, `axhspan`, `axvspan`, text boxes with arrows |
 | 11 | Twin Axes | Dual Y-axis, merging legends, `twinx` |
 | 12 | Box & Violin Plots | IQR, outliers, distribution shapes |
 
 ### PART 3 — Advanced & Practical
 | # | Topic | Key Concepts |
 |---|-------|-------------|
-| 13 | Heatmaps | Correlation matrices, confusion matrices, `imshow` |
+| 13 | Heatmaps 🟢 MUST LEARN | Correlation matrices, confusion matrices, `imshow` |
 | 14 | Filled Area & Stacked Charts | `stackplot`, 100% normalised, energy mix |
 | 15 | Real-World Dashboard | 4-panel layout, KPI cards, GridSpec, combined chart types |
-| 16 | Saving Figures | PNG/SVG/PDF, `dpi`, `bbox_inches`, format comparison |
+| 16 | Saving Figures 🟢 MUST LEARN | PNG/SVG/PDF, `dpi`, `bbox_inches`, format comparison |
 | 17 | Key Takeaways | Cheat sheet, chart selection guide, Golden Rules |
 
 ---
